@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 As an industry-leading team of security researchers, we specialize in providing premium smart contract auditing services to DeFi protocols. Our proven track record includes collaborations with companies such as Yearn, Euler, and Ambire.
 
